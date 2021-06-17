@@ -33,6 +33,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "fs": "0.0.1-security",
     "http-proxy": "1.11.1",
     "proxy-from-env": "0.0.1"
   },
